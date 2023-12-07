@@ -10,11 +10,11 @@ m1=[8 10 12 14 16 18 20];
 R = 0:0.1:50;
 %R = 5:0.1:20;
 
-xmin = 5; % X轴的最小值
-xmax = 20; % X轴的最大值
+xmin = 5; 
+xmax = 20; 
 %xlim([xmin xmax])
-ymin = -60; % X轴的最小值
-ymax = 120; % X轴的最大值
+ymin = -60; 
+ymax = 120; 
 %ylim([ymin ymax])
 
 
