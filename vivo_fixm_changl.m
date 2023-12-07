@@ -18,11 +18,11 @@ R = 0:0.1:50;
 % thres for l=16: 0.04-0.05
 %thres for l=20: 0.05-0.1
 
-xmin = 5; % X轴的最小值
-xmax = 20; % X轴的最大值
+xmin = 5; 
+xmax = 20; 
 %xlim([xmin xmax])
-ymin = -60; % X轴的最小值
-ymax = 120; % X轴的最大值
+ymin = -60; 
+ymax = 120; 
 %ylim([ymin ymax])
 
 % lambda=0.8;
